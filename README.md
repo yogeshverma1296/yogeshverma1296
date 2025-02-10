@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Frontend Web Development**
 
-- 👨‍💻 All of my projects are available at [www.yogeshverma.info](www.yogeshverma.info)
+- 👨‍💻 All of my projects are available at [https://yogeshverma1296.github.io/](https://yogeshverma1296.github.io/)
 
 - 📝 I regularly write articles on [www.linkedin.com/in/yogeshverma1296/](www.linkedin.com/in/yogeshverma1296/)
 
